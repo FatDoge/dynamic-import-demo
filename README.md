@@ -12,4 +12,4 @@ This git reposity will add more dynamic import function use cases.
 ``` javascript
 hello, import()
 ```
->⚠️requests are only supported for protocol schemes: http, data, chrome, chrome-extension, https.
+⚠️ ***Don't double click the index.html directly.***
