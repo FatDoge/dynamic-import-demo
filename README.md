@@ -1,4 +1,5 @@
 This git reposity will add more dynamic import function use cases.
+[visit demo](https://fatdoge.github.io/dynamic-import-demo/)
 1. Install && Start
 ``` bash
 > git clone .../dynamic-import-demo
